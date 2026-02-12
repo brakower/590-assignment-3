@@ -1,4 +1,6 @@
--module(app).
+% team: Tracy Dang, Bennett Rakower, Megha Thumma
+
+-module(p1).
 -export([start/0]).
 
 start() ->
