@@ -1,6 +1,6 @@
 # Erlang Assignment 1 – p1 and p2
 
-**Tracy Dang, Bennett Rakower, Megha Thumma  
+**Tracy Dang, Bennett Rakower, Megha Thumma**
 
 
 
